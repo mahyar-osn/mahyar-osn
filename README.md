@@ -43,15 +43,46 @@ I recently joined.
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+**🎛️ Favourite OS (and distro)**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
 **Other SWE stuff**
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-📚 I am also affiliated with Auckland Bioengineering Institute where I undertake active research and scientific consulting.
+### 📚🤓
+I am also affiliated with Auckland Bioengineering Institute where I undertake active research and scientific consulting.
 You can checkout my research outputs and publication:
 
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Mahyar-Osanlouy)
 [![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://scholar.google.com/citations?user=FhQ1cSMAAAAJ&hl=en)
+
+Some topics of interest:
+
+- Computational modelling of bioengineering systems
+- Intelligence, both in humans and machines
+
+---
+###☕🤎
+I love coffee. Love is probably an underestimation. I am crazy about coffee. Single-origin, medium roast with a small
+touch of milk 👌 I usually have two coffees per day; one at 7:00 in the morning 🕖 and one at 1:00 the afternoon 🕐.
+
+---
+### 🎵🎶
+My favourite genre of music is movie soundtracks. I listen to them every day, especially when I am working. 
+I have compiled a playlist which you can listen from here
+
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/459q48L0fDOX9QgrjWQpNS?si=3fe1db470e254389)
+
+---
+### 🎲🎮
+I play video games and boardgames, but not as much as maybe 10 years ago 😢 
+Anyway you can add me as your friend and we could potentially play some sessions 😃
+
+[![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/mahyarosan/)
