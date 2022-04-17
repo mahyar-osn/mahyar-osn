@@ -5,7 +5,7 @@
 
 - I’m a senior machine learning scientist, computational neuroscientist, and bioengineer 🧠
 - I have another <a href="https://github.com/mahyar-o-provectusalgae">
-    <img alt="GitHub" title="GitHub" height="15" width="15" src="https://raw.githubusercontent.com/sugam1111/sugam1111/master/assets/github.svg"></a>
+    <img alt="GitHub" title="GitHub" height="15" width="15" src="https://user-images.githubusercontent.com/6082104/163702915-24442ff0-e503-428c-8000-9a53b2055d29.png"></a>
 profile which contains only private repos, but you can still see my contribution graph 💹
 <br/><br/>
 
