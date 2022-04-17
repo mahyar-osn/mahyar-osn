@@ -70,6 +70,7 @@ Some topics of interest:
 
 ---
 ###☕🤎
+
 I love coffee. Love is probably an underestimation. I am crazy about coffee. Single-origin, medium roast with a small
 touch of milk 👌 I usually have two coffees per day; one at 7:00 in the morning 🕖 and one at 1:00 the afternoon 🕐.
 
