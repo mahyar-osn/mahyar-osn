@@ -74,8 +74,7 @@ profile which contains only private repos for <img alt="GitHub" title="GitHub" h
 
 ---
 ### 📚🤓
-I am also affiliated with Auckland Bioengineering Institute where I undertake active research and scientific consulting.
-You can checkout my research outputs and publication:
+I am also an active researcher and publish in various journals and conferences. You can check out my research outputs and publication:
 
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Mahyar-Osanlouy)
 [![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://scholar.google.com/citations?user=FhQ1cSMAAAAJ&hl=en)
@@ -88,7 +87,7 @@ Some topics of interest:
 ---
 ### ☕🤎
 I love coffee. Love is probably an underestimation. I am crazy about coffee. Single-origin, medium roast with a small
-touch of milk 👌 I usually have two coffees per day; one at 7:00 in the morning 🕖 and one at 1:00 the afternoon 🕐.
+touch of milk 👌 I usually have two coffees per day; one at 7:00 in the morning 🕖 and another at 1:00 the afternoon 🕐.
 
 ---
 ### 🎵🎶
