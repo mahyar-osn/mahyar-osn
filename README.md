@@ -27,9 +27,7 @@ profile which contains only private repos for <img alt="GitHub" title="GitHub" h
 
 <br/><br/>
 
-<p style="text-align: center;">
-🚀 My daily work routine involves a lot of programming and algorithm development. Here's a brief list of my tech stack: 🚀 
-</p>
+### 🚀 My daily work routine involves a lot of programming and algorithm development. Here's a brief list of my tech stack: 🚀 
 
 **Languages**
 
