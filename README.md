@@ -22,6 +22,9 @@ I recently joined.
 [![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/en/ "Java")
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/ "C++")
 [![PERL](https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white)](https://www.perl.org/ "Perl")
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+
 
 **Machine Learning & Computer Vision**
 
@@ -34,4 +37,21 @@ I recently joined.
 [![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv)](https://opencv.org/ "OpenCV")
 [![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=Pandas)](https://pandas.pydata.org/ "Pandas")
 
+**Favourite IDEs**
 
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-555555.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+**Other SWE stuff**
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+---
+
+📚 I am also affiliated with Auckland Bioengineering Institute where I undertake active research and scientific consulting.
+You can checkout my research outputs and publication:
+
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Mahyar-Osanlouy)
+[![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://scholar.google.com/citations?user=FhQ1cSMAAAAJ&hl=en)
