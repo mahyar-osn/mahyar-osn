@@ -1,18 +1,30 @@
 👋 Hi there! I'm Mahyar - it's pronounced: /ˈma'h:īär/ 👋
 ===
 
-<br/><br/>
-### Before jumpin into my bio, watch my GutHub contribution graph get eaten by the snake 🐍
+### Before jumpin into my bio, let's watch my GutHub contribution graph get eaten by the snake 🐍
 
 ![snake gif](https://github.com/mahyar-osn/mahyar-osn/blob/80880fad0ab6e187c6fd216cb509cc2cec8abf02/github-contribution-grid-snake.svg)
 
-- I’m a senior machine learning scientist, computational neuroscientist, and bioengineer 🧠
-- I have another <a href="https://github.com/mahyar-o-provectusalgae">
+### Short bio:
+- I’m a scientist 👨‍🔬, an engineer 👨‍💻, and a homo sapien 👨
+- I studied physiology, medical science, computer science, mathematics, and bioengineering.
+- I work as a scientific consultant (part-time) for Auckland Bioengineering Institute (where I used to be a full-time
+research fellow).
+- I have recently joined a synthetic biology company called <img alt="GitHub" title="GitHub" height="15" width="15" src="https://user-images.githubusercontent.com/6082104/163703097-865b323e-521e-4199-bff4-b589be95b79f.png"></a>
+  <a href="https://provectusalgae.com/"> Provectus Algae Pty Ltd</a>, as a senior machine learning engineer. I am now based in Australia.
+
+_**P.S.**_
+_- I have another <a href="https://github.com/mahyar-o-provectusalgae">
     <img alt="GitHub" title="GitHub" height="15" width="15" src="https://user-images.githubusercontent.com/6082104/163702915-24442ff0-e503-428c-8000-9a53b2055d29.png"></a>
-profile which contains only private repos, but you can still see my contribution graph 💹 This profile contains my work for
-<img alt="GitHub" title="GitHub" height="15" width="15" src="https://user-images.githubusercontent.com/6082104/163703097-865b323e-521e-4199-bff4-b589be95b79f.png"></a>
-  <a href="https://provectusalgae.com/"> Provectus Algae Pty Ltd</a>, a biotech company that
-I recently joined.
+profile which contains only private repos for <img alt="GitHub" title="GitHub" height="15" width="15" src="https://user-images.githubusercontent.com/6082104/163703097-865b323e-521e-4199-bff4-b589be95b79f.png"></a>
+  , but you can still see my contribution graph 💹._
+
+
+**You can also reach me via the following platforms:**
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahyar-osanlouy/)
+[![Twitter](https://img.shields.io/badge/<handle>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/MahyarOsn)
+
 <br/><br/>
 
 <p style="text-align: center;">
@@ -72,8 +84,8 @@ You can checkout my research outputs and publication:
 
 Some topics of interest:
 
-- Computational modelling of bioengineering systems
-- Intelligence, both in humans and machines
+- 🧮 Computational modelling of bioengineering systems
+- 🧠 Intelligence, both in humans and machines 
 
 ---
 ### ☕🤎
