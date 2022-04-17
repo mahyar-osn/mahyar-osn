@@ -56,6 +56,10 @@ I recently joined.
 
 ---
 
+### My GitHub Stats:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahyar-osn)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 ### 📚🤓
 I am also affiliated with Auckland Bioengineering Institute where I undertake active research and scientific consulting.
 You can checkout my research outputs and publication:
@@ -86,3 +90,6 @@ I play video games and boardgames, but not as much as maybe 10 years ago 😢
 Anyway you can add me as your friend and we could potentially play some sessions 😃
 
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/mahyarosan/)
+
+---
+![](https://komarev.com/ghpvc/?username=mahyar-osn&color=75eeb2)
