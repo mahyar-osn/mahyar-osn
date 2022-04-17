@@ -13,7 +13,7 @@ I recently joined.
 <br/><br/>
 
 <p style="text-align: center;">
-🚀 My daily routine involves a lot of programming and algorithm development. Here's a brief list of my tech stack: 🚀 
+🚀 My daily work routine involves a lot of programming and algorithm development. Here's a brief list of my tech stack: 🚀 
 </p>
 
 **Languages**
