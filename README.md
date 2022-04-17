@@ -6,7 +6,10 @@
 - I’m a senior machine learning scientist, computational neuroscientist, and bioengineer 🧠
 - I have another <a href="https://github.com/mahyar-o-provectusalgae">
     <img alt="GitHub" title="GitHub" height="15" width="15" src="https://user-images.githubusercontent.com/6082104/163702915-24442ff0-e503-428c-8000-9a53b2055d29.png"></a>
-profile which contains only private repos, but you can still see my contribution graph 💹
+profile which contains only private repos, but you can still see my contribution graph 💹 This profile contains my work for
+<img alt="GitHub" title="GitHub" height="15" width="15" src="https://user-images.githubusercontent.com/6082104/163703097-865b323e-521e-4199-bff4-b589be95b79f.png"></a>
+  <a href="https://provectusalgae.com/"> Provectus Algae Pty Ltd</a>, a biotech company that
+I recently joined.
 <br/><br/>
 
 #### 🚀 My daily routine involves a lot of programming and algorithm development. Here's a brief list of my tech stack: 🚀 
