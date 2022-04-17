@@ -2,8 +2,9 @@
 ===
 
 <br/><br/>
+### Before jumpin into my bio, watch my GutHub contribution graph get eaten by the snake 🐍
 
-![snake gif](https://github.com/mahyar-osn/mahyar-osn/blob/80880fad0ab6e187c6fd216cb509cc2cec8abf02/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/mahyar-osn/mahyar-osn/blob/80880fad0ab6e187c6fd216cb509cc2cec8abf02/github-contribution-grid-snake.svg)
 
 - I’m a senior machine learning scientist, computational neuroscientist, and bioengineer 🧠
 - I have another <a href="https://github.com/mahyar-o-provectusalgae">
