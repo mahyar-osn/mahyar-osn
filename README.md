@@ -52,9 +52,9 @@ profile which contains only private repos for <img alt="GitHub" title="GitHub" h
 
 **Favourite IDEs**
 
-<img alt="IntelliJ IDEA" height="25" width="85" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
-<img alt="PyCharm" height="25" width="85" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/>
-<img alt="Visual Studio Code" height="25" width="115" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img alt="IntelliJ IDEA" height="25" width="85" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/></a>
+<img alt="PyCharm" height="25" width="85" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/></a>
+<img alt="Visual Studio Code" height="25" width="115" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></a>
 
 
 **🎛️ Favourite OS (and distro)**
