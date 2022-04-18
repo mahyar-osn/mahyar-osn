@@ -25,9 +25,8 @@ profile which contains only private repos for <img alt="GitHub" title="GitHub" h
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahyar-osanlouy/)
 [![Twitter](https://img.shields.io/badge/<handle>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/MahyarOsn)
 
-<br/><br/>
 
-### 🚀 My daily work routine involves a lot of programming and algorithm development. Here's a brief list of my tech stack: 🚀 
+### 🚀 My daily work routine involves a lot of programming and algorithm development. Here's a brief list of my tech stack:🔨 
 
 **Languages**
 
