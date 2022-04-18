@@ -40,14 +40,15 @@ profile which contains only private repos for <img alt="GitHub" title="GitHub" h
 
 **Machine Learning & Computer Vision**
 
+[![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy)](https://numpy.org/ "NumPy")
+[![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)](https://www.scipy.org/ "SciPy")
 [![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/ "PyTorch")
 [![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/ "TensorFlow")
 [![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras)](https://keras.io/ "Keras")
 [![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7930E?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/ "Scikit-Learn")
-[![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy)](https://numpy.org/ "NumPy")
-[![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)](https://www.scipy.org/ "SciPy")
 [![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv)](https://opencv.org/ "OpenCV")
 [![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=Pandas)](https://pandas.pydata.org/ "Pandas")
+[![Pandas](https://img.shields.io/badge/-Theano-150458?style=flat-square&logo=)](https://pandas.pydata.org/ "Pandas")
 
 **Favourite IDEs**
 
@@ -96,9 +97,20 @@ I have compiled a playlist which you can listen from here:
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/459q48L0fDOX9QgrjWQpNS?si=3fe1db470e254389)
 
 ---
+### 📕🔖
+I read a lot of books (or listen to audio-books). I mainly like non-fictions.
+
+- Currently reading: 🔳🔳🔳🔳🔳⬜️⬜️⬜️⬜️
+
+<p align="center">
+<a href="https://www.goodreads.com/en/book/show/54503521-a-thousand-brains/"><img alt="GitHub" title="GitHub" height="100" width="70" src="https://user-images.githubusercontent.com/6082104/163787156-a9e9482a-80e4-479f-8b8d-2f6b6d68fb31.jpg"></a>
+</p>
+
+---
 ### 🎲🎮
 I play video games and boardgames, but not as much as maybe 10 years ago 😢 
 Anyway you can add me as your friend and we could potentially play some sessions 😃
+
 
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/mahyarosan/)
 
