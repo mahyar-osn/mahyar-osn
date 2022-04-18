@@ -48,18 +48,19 @@ profile which contains only private repos for <img alt="GitHub" title="GitHub" h
 [![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7930E?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/ "Scikit-Learn")
 [![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv)](https://opencv.org/ "OpenCV")
 [![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=Pandas)](https://pandas.pydata.org/ "Pandas")
-[![Pandas](https://img.shields.io/badge/-Theano-150458?style=flat-square&logo=)](https://pandas.pydata.org/ "Pandas")
+[![Theano](https://img.shields.io/badge/-Theano-00599C?style=flat-square&logo=)](https://github.com/Theano/Theano/ "Theano")
 
 **Favourite IDEs**
 
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-555555.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<img alt="IntelliJ IDEA" height="25" width="85" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+<img alt="PyCharm" height="25" width="85" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/>
+<img alt="Visual Studio Code" height="25" width="115" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+
 
 **🎛️ Favourite OS (and distro)**
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+<img alt="Linux" height="20" width="60" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img alt="Ubuntu" height="20" width="60" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 
 **Other SWE stuff**
 
@@ -68,16 +69,11 @@ profile which contains only private repos for <img alt="GitHub" title="GitHub" h
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
-
-### My GitHub Stats:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahyar-osn&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
 ### 📚🤓
 I am also an active researcher. I publish in various journals and conferences. You can check out my research outputs and publication:
 
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Mahyar-Osanlouy)
-[![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://scholar.google.com/citations?user=FhQ1cSMAAAAJ&hl=en)
+<a href="https://www.researchgate.net/profile/Mahyar-Osanlouy"><img alt="ResearchGate" height="25" width="70" src="https://img.shields.io/badge/ResearchGate-00CCBB.svg?style=for-the-badge&logo=ResearchGate&logoColor=white"/></a>
+<a href="https://scholar.google.com/citations?user=FhQ1cSMAAAAJ&hl=en"><img alt="Google Scholar" height="25" width="70" src="https://img.shields.io/badge/Google-%233780F1.svg?style=for-the-badge&logo=Google&logoColor=white"/>
 
 Some topics of interest:
 
@@ -113,6 +109,12 @@ Anyway you can add me as your friend and we could potentially play some sessions
 
 
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/mahyarosan/)
+
+---
+
+### My GitHub Stats:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahyar-osn&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ---
 ![](https://komarev.com/ghpvc/?username=mahyar-osn&color=75eeb2)
