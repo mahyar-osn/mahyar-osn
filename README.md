@@ -74,7 +74,7 @@ profile which contains only private repos for <img alt="GitHub" title="GitHub" h
 
 ---
 ### 📚🤓
-I am also an active researcher and publish in various journals and conferences. You can check out my research outputs and publication:
+I am also an active researcher. I publish in various journals and conferences. You can check out my research outputs and publication:
 
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Mahyar-Osanlouy)
 [![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://scholar.google.com/citations?user=FhQ1cSMAAAAJ&hl=en)
@@ -92,7 +92,7 @@ touch of milk 👌 I usually have two coffees per day; one at 7:00 in the mornin
 ---
 ### 🎵🎶
 My favourite genre of music is movie soundtracks. I listen to them every day, especially when I am working. 
-I have compiled a playlist which you can listen from here
+I have compiled a playlist which you can listen from here:
 
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/459q48L0fDOX9QgrjWQpNS?si=3fe1db470e254389)
 
