@@ -59,8 +59,8 @@ profile which contains only private repos for <img alt="GitHub" title="GitHub" h
 
 **🎛️ Favourite OS (and distro)**
 
-<img alt="Linux" height="20" width="60" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-<img alt="Ubuntu" height="20" width="60" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+<img alt="Linux" height="20" width="60" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
+<img alt="Ubuntu" height="20" width="60" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/></a>
 
 **Other SWE stuff**
 
@@ -73,7 +73,7 @@ profile which contains only private repos for <img alt="GitHub" title="GitHub" h
 I am also an active researcher. I publish in various journals and conferences. You can check out my research outputs and publication:
 
 <a href="https://www.researchgate.net/profile/Mahyar-Osanlouy"><img alt="ResearchGate" height="25" width="70" src="https://img.shields.io/badge/ResearchGate-00CCBB.svg?style=for-the-badge&logo=ResearchGate&logoColor=white"/></a>
-<a href="https://scholar.google.com/citations?user=FhQ1cSMAAAAJ&hl=en"><img alt="Google Scholar" height="25" width="70" src="https://img.shields.io/badge/Google-%233780F1.svg?style=for-the-badge&logo=Google&logoColor=white"/>
+<a href="https://scholar.google.com/citations?user=FhQ1cSMAAAAJ&hl=en"><img alt="Google Scholar" height="25" width="70" src="https://img.shields.io/badge/Google-%233780F1.svg?style=for-the-badge&logo=Google&logoColor=white"/></a>
 
 Some topics of interest:
 
