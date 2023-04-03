@@ -6,13 +6,13 @@
 ![snake gif](https://github.com/mahyar-osn/mahyar-osn/blob/80880fad0ab6e187c6fd216cb509cc2cec8abf02/github-contribution-grid-snake.svg)
 
 ### Short bio:
-- I’m a scientist 👨‍🔬, an engineer 👨‍💻, and a homo sapien 👨
+- I’m a scientist 👨‍🔬, an engineer 👨‍💻, and a Homo sapiens 👨
 - I studied physiology, medical science, computer science, mathematics, and bioengineering.
-- I work as a scientific consultant (part-time) for Auckland Bioengineering Institute (where I used to be a full-time
+- I currently work as a senior ML engineer for NSW Government on Smart Cities and Digital Twin.
+- I also work as a scientific consultant (part-time) for Auckland Bioengineering Institute (where I used to be a full-time
 research fellow).
-- I have recently joined a synthetic biology company called <img alt="GitHub" title="GitHub" height="15" width="15" src="https://user-images.githubusercontent.com/6082104/163703097-865b323e-521e-4199-bff4-b589be95b79f.png"></a>
-  <a href="https://provectusalgae.com/"> Provectus Algae Pty Ltd</a>, as a senior machine learning engineer. I am now based in Australia.
-
+- In January 2023, I launched my own consulting sole trader business and my current client is a company called <img alt="GitHub" title="GitHub" height="15" width="15" src="https://user-images.githubusercontent.com/6082104/163703097-865b323e-521e-4199-bff4-b589be95b79f.png"></a>
+  <a href="https://provectusalgae.com/"> Provectus Algae Pty Ltd</a>.
 _**P.S.**_
 _- I have another <a href="https://github.com/mahyar-o-provectusalgae">
     <img alt="GitHub" title="GitHub" height="15" width="15" src="https://user-images.githubusercontent.com/6082104/163702915-24442ff0-e503-428c-8000-9a53b2055d29.png"></a>
