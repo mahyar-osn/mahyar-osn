@@ -13,6 +13,7 @@
 research fellow).
 - In January 2023, I launched my own consulting sole trader business and my current client is a company called <img alt="GitHub" title="GitHub" height="15" width="15" src="https://user-images.githubusercontent.com/6082104/163703097-865b323e-521e-4199-bff4-b589be95b79f.png"></a>
   <a href="https://provectusalgae.com/"> Provectus Algae Pty Ltd</a>.
+  
 _**P.S.**_
 _- I have another <a href="https://github.com/mahyar-o-provectusalgae">
     <img alt="GitHub" title="GitHub" height="15" width="15" src="https://user-images.githubusercontent.com/6082104/163702915-24442ff0-e503-428c-8000-9a53b2055d29.png"></a>
