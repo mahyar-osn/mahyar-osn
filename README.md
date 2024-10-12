@@ -1,42 +1,29 @@
 👋 Hi there! I'm Mahyar - it's pronounced: /ˈma'h:īär/ 👋
 ===
 
-### Before jumpin into my bio, let's watch my GutHub contribution graph get eaten by the snake 🐍
+### Before diving into my bio, let's watch my GitHub contribution graph get eaten by the snake 🐍
 
 ![snake gif](https://github.com/mahyar-osn/mahyar-osn/blob/80880fad0ab6e187c6fd216cb509cc2cec8abf02/github-contribution-grid-snake.svg)
 
 ### Short bio:
 - I’m a scientist 👨‍🔬, an engineer 👨‍💻, and a Homo sapiens 👨
-- I studied physiology, medical science, computer science, mathematics, and bioengineering.
-- I currently work as a senior ML engineer for NSW Government on Smart Cities and Digital Twin.
-- I also work as a scientific consultant (part-time) for Auckland Bioengineering Institute (where I used to be a full-time
+- My academic background spans computer science, mathematics, physiology, and bioengineering
+- Currently, I'm a lead ML engineer at <a href="https://www.cotreat.ai//"> CoTreat AI</a>.
+- I  also work as a part-time scientific researcher at Auckland Bioengineering Institute (where I was previously a full-time research fellow).
 research fellow).
-- In January 2023, I launched my own consulting sole trader business and my current client is a company called <img alt="GitHub" title="GitHub" height="15" width="15" src="https://user-images.githubusercontent.com/6082104/163703097-865b323e-521e-4199-bff4-b589be95b79f.png"></a>
-  <a href="https://provectusalgae.com/"> Provectus Algae Pty Ltd</a>.
-  
-_**P.S.**_
-_- I have another <a href="https://github.com/mahyar-o-provectusalgae">
-    <img alt="GitHub" title="GitHub" height="15" width="15" src="https://user-images.githubusercontent.com/6082104/163702915-24442ff0-e503-428c-8000-9a53b2055d29.png"></a>
-profile which contains only private repos for <img alt="GitHub" title="GitHub" height="15" width="15" src="https://user-images.githubusercontent.com/6082104/163703097-865b323e-521e-4199-bff4-b589be95b79f.png"></a>
-  , but you can still see my contribution graph 💹._
 
-
-**You can also reach me via the following platforms:**
+**Connect with me on LinkedIn:**
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahyar-osanlouy/)
-[![Twitter](https://img.shields.io/badge/<handle>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/MahyarOsn)
 
 
-### 🚀 My daily work routine involves a lot of programming and algorithm development. Here's a brief list of my tech stack:🔨 
+### 🚀 My daily work routine involves extensive programming and algorithm development. Here's a brief overview of my tech stack:🔨 
 
 **Languages**
 
 [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/ "Python")
-[![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/en/ "Java")
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/ "C++")
-[![PERL](https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white)](https://www.perl.org/ "Perl")
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
 
 **Machine Learning & Computer Vision**
@@ -58,56 +45,52 @@ profile which contains only private repos for <img alt="GitHub" title="GitHub" h
 <img alt="Visual Studio Code" height="25" width="115" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></a>
 
 
-**🎛️ Favourite OS (and distro)**
+**🎛️ Preferred OS (and distro)**
 
 <img alt="Linux" height="20" width="60" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
 <img alt="Ubuntu" height="20" width="60" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/></a>
 
-**Other SWE stuff**
+[//]: # (**Other SWE stuff**)
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+[//]: # ()
+[//]: # (![Git]&#40;https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&#41;)
+
+[//]: # (![AWS]&#40;https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white&#41;)
+
+[//]: # (![Docker]&#40;https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white&#41;)
 
 ---
 ### 📚🤓
-I am also an active researcher. I publish in various journals and conferences. You can check out my research outputs and publication:
+As an active researcher, I regularly publish in various journals and conferences. You can explore my research outputs and publications here:
 
 <a href="https://www.researchgate.net/profile/Mahyar-Osanlouy"><img alt="ResearchGate" height="25" width="70" src="https://img.shields.io/badge/ResearchGate-00CCBB.svg?style=for-the-badge&logo=ResearchGate&logoColor=white"/></a>
-<a href="https://scholar.google.com/citations?user=FhQ1cSMAAAAJ&hl=en"><img alt="Google Scholar" height="25" width="70" src="https://img.shields.io/badge/Google-%233780F1.svg?style=for-the-badge&logo=Google&logoColor=white"/></a>
+<a href="https://scholar.google.com/citations?user=uxlpv5kAAAAJ&hl=en"><img alt="Google Scholar" height="25" width="70" src="https://img.shields.io/badge/Google-%233780F1.svg?style=for-the-badge&logo=Google&logoColor=white"/></a>
 
-Some topics of interest:
+My primary research interests include:
 
 - 🧮 Computational modelling of bioengineering systems
 - 🧠 Intelligence, both in humans and machines 
 
 ---
 ### ☕🤎
-I love coffee. Love is probably an underestimation. I am crazy about coffee. Single-origin, medium roast with a small
-touch of milk 👌 I usually have two coffees per day; one at 7:00 in the morning 🕖 and another at 1:00 the afternoon 🕐.
+I'm passionate about coffee. "Love" might be an understatement – I'm absolutely crazy about it. My preference? Single-origin, medium roast with a touch of milk 
+👌 My daily ritual includes two cups: one at 7:00 AM 🕖 and another at 1:00 PM 🕐.
 
 ---
 ### 🎵🎶
-My favourite genre of music is movie soundtracks. I listen to them every day, especially when I am working. 
-I have compiled a playlist which you can listen from here:
+Movie soundtracks are my favorite genre of music. They're an integral part of my daily work routine. Check out my curated playlist here:
 
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/459q48L0fDOX9QgrjWQpNS?si=3fe1db470e254389)
 
 ---
 ### 📕🔖
-I read a lot of books (or listen to audio-books). I mainly like non-fictions.
+I'm an avid reader with a particular fondness for non-fiction books and audiobooks.
 
-- Currently reading: 🔳🔳🔳🔳🔳⬜️⬜️⬜️⬜️
-
-<p align="center">
-<a href="https://www.goodreads.com/en/book/show/54503521-a-thousand-brains/"><img alt="GitHub" title="GitHub" height="100" width="70" src="https://user-images.githubusercontent.com/6082104/163787156-a9e9482a-80e4-479f-8b8d-2f6b6d68fb31.jpg"></a>
-</p>
+- Currently reading: Quantum Supremacy by Michio Kaku 🔳🔳🔳🔳🔳⬜️⬜️⬜️⬜️
 
 ---
 ### 🎲🎮
-I play video games and boardgames, but not as much as maybe 10 years ago 😢 
-Anyway you can add me as your friend and we could potentially play some sessions 😃
-
+While my gaming habits have evolved over the years, I still enjoy video games and board games. Feel free to add me as a friend for potential gaming sessions! 😃
 
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/mahyarosan/)
 
@@ -119,4 +102,3 @@ Anyway you can add me as your friend and we could potentially play some sessions
 
 ---
 ![](https://komarev.com/ghpvc/?username=mahyar-osn&color=75eeb2)
-
