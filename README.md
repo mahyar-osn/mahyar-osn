@@ -10,7 +10,6 @@
 - My academic background spans computer science, mathematics, physiology, and bioengineering
 - Currently, I'm a lead ML engineer at <a href="https://www.cotreat.ai//"> CoTreat AI</a>.
 - I  also work as a part-time scientific researcher at Auckland Bioengineering Institute (where I was previously a full-time research fellow).
-research fellow).
 
 **Connect with me on LinkedIn:**
 
@@ -23,18 +22,18 @@ research fellow).
 
 [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/ "Python")
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/ "C++")
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
 
 
 **Machine Learning & Computer Vision**
 
+[![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/ "PyTorch")
+[![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv)](https://opencv.org/ "OpenCV")
 [![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy)](https://numpy.org/ "NumPy")
 [![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)](https://www.scipy.org/ "SciPy")
-[![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/ "PyTorch")
 [![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/ "TensorFlow")
 [![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras)](https://keras.io/ "Keras")
 [![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7930E?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/ "Scikit-Learn")
-[![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv)](https://opencv.org/ "OpenCV")
 [![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=Pandas)](https://pandas.pydata.org/ "Pandas")
 [![Theano](https://img.shields.io/badge/-Theano-00599C?style=flat-square&logo=)](https://github.com/Theano/Theano/ "Theano")
 
@@ -77,6 +76,10 @@ I'm passionate about coffee. "Love" might be an understatement – I'm absolutel
 👌 My daily ritual includes two cups: one at 7:00 AM 🕖 and another at 1:00 PM 🕐.
 
 ---
+### 🎭🎬
+As a side hobby, I do theatre acting. I have played in a number of roles for different theatre productions in Auckland and Sydney. It's really fun!
+
+---
 ### 🎵🎶
 Movie soundtracks are my favorite genre of music. They're an integral part of my daily work routine. Check out my curated playlist here:
 
@@ -94,10 +97,10 @@ While my gaming habits have evolved over the years, I still enjoy video games an
 
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/mahyarosan/)
 
----
 
-### My GitHub Stats:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahyar-osn&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[//]: # (### My GitHub Stats:)
+
+[//]: # ([![Anurag's GitHub stats]&#40;https://github-readme-stats.vercel.app/api?username=mahyar-osn&show_icons=true&theme=dark&#41;]&#40;https://github.com/anuraghazra/github-readme-stats&#41;)
 
 
 ---
